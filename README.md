@@ -1,5 +1,5 @@
 ### Hi there 👋
-! [welcome to my hub](https://i.imgur.com/jS36FFZ.gif)
+![welcome to my hub](https://i.imgur.com/jS36FFZ.gif)
 
 
 <!--
