@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Kingsley CJ 👋
 ![welcome to my hub](https://i.imgur.com/jS36FFZ.gif)
 
 
@@ -7,12 +7,12 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working at [PMT.ng](www.pmt.ng) ...
-- 🌱 I’m currently learning: javascript...
-- 👯 I’m looking to collaborate on interesting projects...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: Frontend Development...
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kingsleycj20)  ...
-- 😄 Pronouns: He / Him...
-- ⚡ Fun fact: The human body literally glows. ...
+- 🔭 I’m currently working at [PMT.ng](www.pmt.ng) 
+- 🌱 I’m currently learning Software Development 
+- 👯 I’m looking to collaborate on interesting projects
+- 🤔 I’m looking for help with Backend Development 
+- 💬 Ask me about: Frontend Development
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kingsleycj20) and [Twitter](@Kingsleycj8)
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: The human body literally glows. Lol.. I'm sure you didn't know
 
