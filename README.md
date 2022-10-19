@@ -10,4 +10,4 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with Backend Development 
 - 💬 Ask me about: Frontend Development
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kingsleycj20) and [Twitter](@Kingsleycj8) [Twitter](@KcPrimekings)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kingsleycj20) and [Twitter](@Kingsleycj8)
