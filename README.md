@@ -1,5 +1,5 @@
 ### Hello, I'm Kingsley CJ 👋
-![welcome to my hub](https://i.imgur.com/jS36FFZ.gif)
+<!-- ![welcome to my hub](https://i.imgur.com/jS36FFZ.gif) -->
 
 
 <!--
