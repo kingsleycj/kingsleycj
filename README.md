@@ -1,10 +1,13 @@
  ### Hi, I'm Kingsley CJ 👋 
+<!-- <p align= "center">
+     <img title="kingsley cj" height="500" src="https://i.imgur.com/jS36FFZ.gif" width="100%"/>
+</p> -->
 <!-- ![welcome to my hub](https://i.imgur.com/jS36FFZ.gif) -->
 
 - 🌱 I’m currently learning Backend Development 
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with Backend Development 
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kingsleycj20) and [Twitter](@Kingsleycj8)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kingsleycj20) and [Twitter](@kingsleycj_)
 
 ### Below, lies my stats from the past year: 
 <p align = "left">
