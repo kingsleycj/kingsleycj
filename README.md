@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Backend Development 
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with Backend Development 
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kingsleycj20) and [Twitter](https://twitter.com/kingsleycj_)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kingsleycj) and [Twitter](https://twitter.com/kingsleycj_)
 
 ### Below, lies my stats from the past year: 
 <p align = "left">
