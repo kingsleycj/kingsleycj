@@ -4,10 +4,10 @@
 </p> -->
 <!-- ![welcome to my hub](https://i.imgur.com/jS36FFZ.gif) -->
 
-- 🌱 I’m currently learning Backend Development 
+- 🌱 I’m currently learning Blockchain Development 
 - 👯 I’m looking to collaborate on interesting projects
-- 🤔 I’m looking for help with Backend Development 
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kingsleycj) and [Twitter](https://twitter.com/kingsleycj_)
+- 🤔 I’m looking for help with Blockchain Development 
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kingsleycj) and [Twitter](https://x.com/kingsleycj8_)
 
 ### Below, lies my stats from the past year: 
 <p align = "left">
