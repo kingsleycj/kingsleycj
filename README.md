@@ -7,6 +7,7 @@ I am a passionate backend developer with experience in **JavaScript, Node.js, an
 ### 🔹 What I'm Currently Working On  
 - **Blockchain Development:** Exploring smart contract development, blockchain security, and Web3 integrations.  
 - **Backend Engineering:** Enhancing my skills in API development, database management, and system architecture.   
+- **SIMBI AI STUDY BUDDY:** Working on telegram and web3 features for the AI study assistant.
 
 ### 🛠️ Tech Stack  
 - **Languages:** JavaScript, Solidity  
