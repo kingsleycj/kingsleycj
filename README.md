@@ -1,6 +1,6 @@
 ### Hi, I'm Kingsley CJ 👋  
 
-🚀 **Backend & Blockchain Developer | Web3 Enthusiast**  
+🚀 **Backend & Blockchain Developer && Web3 Enthusiast**  
 
 I am a passionate backend developer with experience in **JavaScript, Node.js, and Express.js**, actively advancing my expertise in **Blockchain Development** with Solidity and Ethers.js. My focus is on building scalable backend systems and decentralized applications.  
 
