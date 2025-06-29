@@ -20,6 +20,7 @@ I am a passionate backend developer with experience in **JavaScript, Node.js, an
 - **LinkedIn:** [Kingsley CJ](https://www.linkedin.com/in/kingsleycj)  
 - **Twitter/X:** [@kingsleycj8_](https://x.com/kingsleycj8_)  
 - **Portfolio:** [Portfolio Page](https://flowcv.me/kingsleycj)
+- **Certifications:** [Backend Development](https://drive.google.com/file/d/16sju084HvQPE0WV2NzFZYoM1HcaNTGI6/view?usp=sharing)
 ---
 
 ### 📊 My GitHub Stats  
