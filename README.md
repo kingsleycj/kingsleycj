@@ -19,27 +19,13 @@ I am a passionate backend developer with experience in **JavaScript, Node.js, an
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-- JavaScript
-- Solidity
-
-**Backend:**
-- Node.js
-- Express.js
-
-**Blockchain:**
-- Hardhat
-- Ethers.js
-- Solidity
-
-**Databases:**
-- MongoDB
-- PostgreSQL
-
-**Tools & Others:**
-- Git
-- Docker
-- REST APIs
+| Category        | Technologies                          |
+| -------------- | -------------------------------------- |
+| **Languages**  | JavaScript, Solidity                   |
+| **Backend**    | Node.js, Express.js                    |
+| **Blockchain** | Hardhat, Ethers.js, Solidity           |
+| **Databases**  | MongoDB, PostgreSQL                    |
+| **Tools & Others** | Git, Docker, REST APIs              |
 
 ---
 
