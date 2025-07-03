@@ -8,14 +8,13 @@ I am a passionate backend developer with experience in **JavaScript, Node.js, an
 - **Blockchain Development:** Exploring smart contract development, blockchain security, and Web3 integrations.  
 - **Backend Engineering:** Enhancing my skills in API development, database management, and system architecture. 
 
-<div>
 ### 🛠️ Tech Stack  
 - **Languages:** JavaScript, Solidity  
 - **Backend:** Node.js, Express.js  
 - **Blockchain:** Hardhat, Ethers.js, Solidity  
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools & Others:** Git, Docker, REST APIs. 
-</div>
+
 ### 🌍 Let's Connect  
  [LinkedIn](https://www.linkedin.com/in/kingsleycj) - [Twitter](https://x.com/kingsleycj8_)  - [Portfolio](https://flowcv.me/kingsleycj)
 ### Certifications:
