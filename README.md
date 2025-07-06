@@ -1,4 +1,7 @@
-### Hi, I'm Kingsley CJ 👋  
+
+<p align="center">
+<h3>Hi, I'm Kingsley Nweke 👋</h3>
+</p>
 
 🚀 **Backend & Blockchain Enthusiast**  
 
