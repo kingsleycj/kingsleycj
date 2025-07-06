@@ -5,15 +5,15 @@
 I am a passionate backend developer with experience in **JavaScript, Node.js, and Express.js**, actively advancing my expertise in **Blockchain Development** with Solidity and Ethers.js. My focus is on building scalable backend systems and decentralized applications.  
 
 ### 🔹 What I'm Currently Working On  
-- **Blockchain Development:** Exploring smart contract development, blockchain security, and Web3 integrations.  
 - **Backend Engineering:** Enhancing my skills in API development, database management, and system architecture. 
+- **Blockchain Development:** Exploring smart contract development, blockchain security, and Web3 integrations.  
 
 ### 🛠️ Tech Stack  
-- **Languages:** JavaScript, Solidity  
+- **Languages:** JavaScript, TypeScript, Solidity  
 - **Backend:** Node.js, Express.js  
-- **Blockchain:** Hardhat, Ethers.js, Solidity  
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools & Others:** Git, Docker, REST APIs. 
+- **Blockchain:** Hardhat, Ethers.js, Solidity  
 
 ### 🌍 Let's Connect  
  - [LinkedIn](https://www.linkedin.com/in/kingsleycj) 
