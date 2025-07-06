@@ -16,7 +16,10 @@ I am a passionate backend developer with experience in **JavaScript, Node.js, an
 - **Tools & Others:** Git, Docker, REST APIs. 
 
 ### 🌍 Let's Connect  
- [LinkedIn](https://www.linkedin.com/in/kingsleycj) - [Twitter](https://x.com/kingsleycj8_)  - [Portfolio](https://flowcv.me/kingsleycj)
+ - [LinkedIn](https://www.linkedin.com/in/kingsleycj) 
+ - [Twitter](https://x.com/kingsleycj8_)  
+ - [Portfolio](https://flowcv.me/kingsleycj)
+ 
 ### Certifications:
 -  [Backend Development](https://drive.google.com/file/d/16sju084HvQPE0WV2NzFZYoM1HcaNTGI6/view?usp=sharing)
 ---
