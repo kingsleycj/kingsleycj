@@ -1,7 +1,4 @@
-<p align="center">
-<h3>Hi, I'm Kingsley Nweke 👋</h3>
-</p>
-
+## Hi, I'm Kingsley Nweke 👋
 ---
 
 🚀 **A Backend Developer & Blockchain Enthusiast**  
