@@ -6,6 +6,7 @@ I am a passionate backend developer with experience in **JavaScript, TypeScript,
 ### 🔹 What I'm Currently Working On  
 - **Backend Engineering:** Enhancing my skills in API development, database management, and system architecture. 
 - **Blockchain Development:** Exploring smart contract development, blockchain security, and Web3 integrations.  
+
 ### 🛠️ Tech Stack  
 - **Languages:** JavaScript, TypeScript, Solidity  
 - **Backend:** Node.js, Express.js  
