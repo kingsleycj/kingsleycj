@@ -13,7 +13,6 @@ I am a passionate backend developer with experience in **JavaScript, TypeScript,
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools & Others:** Git, Docker, REST APIs. 
 - **Blockchain:** Hardhat, Ethers.js
-
 ### 🌍 Let's Connect  
  - [LinkedIn](https://www.linkedin.com/in/kingsleycj) 
  - [Twitter](https://x.com/kingsleycj8_)  
