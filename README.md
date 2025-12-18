@@ -8,11 +8,11 @@ I am a passionate backend developer with experience in **JavaScript, TypeScript,
 - **Blockchain Development:** Exploring smart contract development, blockchain security, and Web3 integrations.
 
 ### 🛠️ Tech Stack  
-- **Languages:** JavaScript, TypeScript, Solidity  
+- **Languages:** JavaScript, TypeScript, Solidity, Rust
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, PostgreSQL  
-- **Tools & Others:** Git, Docker, REST APIs. 
-- **Blockchain:** Hardhat, Ethers.js
+- **Tools & Others:** Git, Docker, Redis, Solana SDK, REST APIs. 
+- **Blockchain:** Hardhat, Ethers.js, Anchor.
   
 ### 🌍 Let's Connect  
  - [LinkedIn](https://www.linkedin.com/in/kingsleycj) 
