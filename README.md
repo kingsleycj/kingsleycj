@@ -8,7 +8,6 @@ I am a passionae backend developer with experience in **JavaScript, TypeScript, 
 - **Blockchain Development:** Exploring smart contract development, blockchain security, and Web3 integrations.
 
 ### 🛠️ Tech Stack  
-
 - **Languages:** JavaScript, TypeScript, Solidity, Rust
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, PostgreSQL  
