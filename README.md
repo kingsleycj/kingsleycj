@@ -1,7 +1,6 @@
 ## Hi, I'm Kingsley Nweke 👋
 🚀 **A Backend Developer & Blockchain Enthusiast**  
 
-
 I am a passionae backend developer with experience in **JavaScript, TypeScript, Node.js, and Express.js**, actively advancing my expertise in **Blockchain Development** with Solidity and Hardhat. My focus is on building scalable backend systems and decentralized applications.  
 
 ### 🔹 What I'm Currently Working On  
