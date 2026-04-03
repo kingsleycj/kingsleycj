@@ -14,6 +14,7 @@ I am a passionate backend developer with experience in **JavaScript, TypeScript,
 - **Tools & Others:** Git, Docker, Redis, Solana SDK, REST APIs. 
 - **Blockchain:** Hardhat, Ethers.js.
   
+
 ### 🌍 Let's Connect  
  - [LinkedIn](https://www.linkedin.com/in/kingsleycj) 
  - [Twitter](https://x.com/kingsleycj8_)  
