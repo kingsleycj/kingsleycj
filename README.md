@@ -11,7 +11,7 @@ I am a passionate backend developer with experience in **JavaScript, TypeScript,
 - **Languages:** JavaScript, TypeScript, Solidity
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, PostgreSQL  
-- **Tools & Others:** Git, Docker, Redis, Solana SDK, REST APIs. 
+- **Tools & Others:** Git, Docker, Redis, Solana SDK, REST APIs, BullMQ
 - **Blockchain:** Hardhat, Ethers.js.
 
 ### 🌍 Let's Connect  
