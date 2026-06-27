@@ -17,7 +17,7 @@ I am a passionate backend developer with experience in **JavaScript, TypeScript,
 ### 🌍 Let's Connect  
  - [LinkedIn](https://www.linkedin.com/in/kingsleycj) 
  - [Twitter](https://x.com/kingsleycj8_)  
- - [Portfolio](https://flowcv.me/kingsleycj)
+ - [Portfolio](https://kingsley-work.vercel.app)
  
 ### Certifications:
 -  [Backend Development](https://drive.google.com/file/d/16sju084HvQPE0WV2NzFZYoM1HcaNTGI6/view?usp=sharing)
