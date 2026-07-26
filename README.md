@@ -14,7 +14,6 @@
 
 ### 👨‍💻 About Me
 
-
 I'm a backend developer who enjoys turning messy requirements into clean, reliable APIs. Most of my day-to-day is spent in **Node.js, TypeScript, and MongoDB**, building and hardening production systems — things like audit logging, push notifications, and monitoring for platforms that can't afford downtime. Alongside that, I'm actively growing into **blockchain development**, working with Solidity, Hardhat, and Web3 tooling.
 
 - 🔭 Currently building backend infrastructure for **HarmonyKloud**, an ABA therapy platform (Node.js/TypeScript/MongoDB) — recent work spans audit-log systems, push notifications, and bug triage.
