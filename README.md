@@ -63,7 +63,7 @@ I'm a backend developer who enjoys turning messy requirements into clean, reliab
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingsleycj&show_icons=true&count_private=true&theme=gotham&hide_border=false&bg_color=00000000" alt="Kingsley's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kingsleycj&show_icons=true&count_private=true&them=gotham&hide_border=false&bg_color=00000000" alt="Kingsley's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleycj&layout=compact&hide_border=false&theme=gotham&bg_color=00000000" alt="Top languages" />
