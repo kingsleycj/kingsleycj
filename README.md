@@ -25,7 +25,6 @@ I'm a backend developer who enjoys turning messy requirements into clean, reliab
 
 ### 🛠️ Tech Stack
 
-
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
