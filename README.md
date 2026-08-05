@@ -2,7 +2,7 @@
 
 # Hi, I'm Kingsley Nweke 👋
 
-### Backend Developer building scalable systems — with one foot in Web3
+### Backend Developer building scalable systems — with a foot in Web3
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingsleycj)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/kingsleycj8_)
