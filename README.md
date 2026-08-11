@@ -22,7 +22,7 @@
 
 <br/>
 
-## What to Know About Me?
+## About Me
 
 I'm a software developer who enjoys turning messy requirements into clean, reliable APIs. Most of my day-to-day is spent in **Node.js, TypeScript, and MongoDB**, building and hardening production systems for platforms that can't afford downtime. Alongside that, I'm actively growing into **blockchain development** — Solidity, Hardhat, and Web3 tooling.
 
