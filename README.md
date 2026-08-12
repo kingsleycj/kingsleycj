@@ -30,7 +30,7 @@ I'm a software developer who enjoys turning messy requirements into clean, relia
 kingsley:
   role: Backend Developer
   focus: [APIs, Distributed Systems, Reliability]
-  currently_building: HarmonyKloud (ABA therapy platform)
+  currently_building: DojoPay (Human Labouring platform)
   also_contributing_to: VibeCraft (AI-powered creative suite)
   learning: [Solidity, Smart Contracts, Web3 Integrations]
   fun_fact: "I debug in production... just kidding (mostly)."
