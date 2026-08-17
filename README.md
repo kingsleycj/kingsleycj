@@ -94,8 +94,8 @@ kingsley:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kingsleycj&show_icons=true&count_private=true&theme=gotham&hide_border=false&bg_color=00000000" alt="Kingsley's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleycj&layout=compact&hide_border=false&theme=gotham&bg_color=00000000" alt="Top languages" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=kingsleycj&show_icons=true&count_private=true&theme=gotham&hide_border=false&bg_color=00000000" alt="Kingsley's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleycj&layout=compact&hide_border=false&theme=gotham&bg_color=00000000" alt="Top languages" /> -->
 
 <a href="http://www.github.com/kingsleycj">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingsleycj&stroke=ffffff&background=00000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="GitHub streak stats" />
