@@ -11,7 +11,7 @@
   <a href="https://x.com/kingsleycj8_">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://kingsley-work.vercel.app">
+  <a href="https://kingsleynweke.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
