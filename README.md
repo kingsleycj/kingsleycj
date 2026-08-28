@@ -102,7 +102,7 @@ kingsley:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingsleycj&stroke=ffffff&background=00000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="GitHub streak stats" />
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kingsleycj&theme=react-dark&hide_border=false&bg_color=00000000&color=0891b2&line=0891b2&point=ffffff" alt="Contribution graph" width="90%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingsleycj&theme=react-dark&hide_border=false&bg_color=00000000&color=0891b2&line=0891b2&point=ffffff" alt="Contribution graph" width="90%"/> -->
 
 </div>
 
@@ -115,11 +115,10 @@ kingsley:
 
 <br/>
 
-## 🌍 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kingsleycj">
+<!-- <a href="https://www.linkedin.com/in/kingsleycj">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://x.com/kingsleycj8_">
@@ -127,7 +126,7 @@ kingsley:
 </a>
 <a href="https://kingsley-work.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+</a> -->
 
 <br/><br/>
 
