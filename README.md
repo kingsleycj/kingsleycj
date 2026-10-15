@@ -14,7 +14,7 @@ I turn messy requirements into clean, reliable APIs for platforms that can't aff
 ## 🔭 What I'm up to
 
 - **Building** backend systems for [HarmonyKloud](#), an ABA therapy platform: forward deployed development, QA, and reliability work
-- **Building** DojoPay - a human labour platform, HumStage - All-in-One Event Platform
+- **Building** HumStage - All-in-One Event Platform, DojoPay - a human labour platform
 - **Contributing** to VibeCraft, an AI-powered creative suite (API docs and architecture)
 - **Learning** Solidity, smart contracts, and Web3 integrations in public
 
