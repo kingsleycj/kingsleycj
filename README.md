@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Kingsley 👋
-### Backend Developer · Node.js · TypeScript · MongoDB · PostgreSQL
+### Software Developer · Node.js · TypeScript · MongoDB · PostgreSQL
 
 I turn messy requirements into clean, reliable APIs for platforms that can't afford downtime.
 
